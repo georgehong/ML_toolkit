@@ -1,0 +1,4 @@
+# datafiles for pandas worksheet
+pandas_practice/auto-mpg.*
+pandas_practice/output.csv
+.ipynb_checkpoints
